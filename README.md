@@ -2,10 +2,6 @@
 
 ###
 
-<img align="right" height="150" src="https://lh3.googleusercontent.com/a/ACg8ocJ74_RooZrIkyNr8E48c84lVziR_D9QMVJVpw4sqYv68p42KfgX=s432-c-no"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="12" />
